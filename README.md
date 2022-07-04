@@ -12,17 +12,15 @@ Sequoia theme adapted to APP
 # Available themes:
 
 Moonlight:
-- #0F1014,#0B161E,#121216,#868690,#1F1F24,#868690,#F0BA92,#FFBB88,#0F1014,#868690
 
 Monochrome:
-- #0F1014,#0B161E,#121216,#868690,#1F1F24,#868690,#FFFFFF,#B6BAC8,#0F1014,#868690
 
 
 
 ## Screenshots
 
 ### Moonlight
-![Moonlight](https://github.com/Sequoia-Theme/slack-channel/blob/main/slackMoonlight.png?raw=true)
+![Moonlight](https://github.com/Sequoia-Theme/app/blob/main/moonlight.png?raw=true)
 
 
 #
